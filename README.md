@@ -1,10 +1,10 @@
-# 🧠 LLM-Based Government Scheme Summarizer & QA System
+# LLM-Based Government Scheme Summarizer & QA System
 
  A Streamlit-based assistant to extract, summarize, and query government schemes using cutting-edge LLM and retrieval technologies.
 
 
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
